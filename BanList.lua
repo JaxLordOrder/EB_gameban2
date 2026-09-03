@@ -1,7 +1,7 @@
 local Ban = {
     ['Ban'] = {
-        [000000000] = {
-            Motivo = "Coloque o motivo aqui"
+        [5677915950] = {
+            Motivo = "Fala agora seu merda"
         },
     },
 
