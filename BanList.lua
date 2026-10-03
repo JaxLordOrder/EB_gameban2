@@ -1,4 +1,5 @@
-	['Ban'] = { 
+	local Ban = {
+    ['Ban'] = {
 
 	--	[3447517113] = {Motivo = '.'}, -- venda de raça
 --		[3642743195] = {Motivo = '.'}, -- venda de raça
