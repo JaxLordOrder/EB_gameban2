@@ -4,7 +4,7 @@ local Ban = {
         --[3447517113] = {Motivo = '.'}, -- venda de raça
         --[3642743195] = {Motivo = '.'}, -- venda de raça
 
-        --[5677915950] = {Motivo = 'comprovante falso'}, -- comprovante falso
+        [5677915950] = {Motivo = 'se alguém diz que pode contra o hardban,você acredita nessa pessoa? não né? então é exatamente assim que eu me sinto.'}, -- comprovante falso
         [8222170744] = {Motivo = 'flw'}, -- cancelando compra pois "já faliu mesmo"
         [8103890668] = {Motivo = '/antiunhardban'}, -- exploit
         [10344686478] = {Motivo = '/antiunhardban'}, -- exploit
