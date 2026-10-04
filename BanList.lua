@@ -243,6 +243,7 @@ local Ban = {
     },
 
     ['Ban_Amigos'] = {
+        [5677915950] = {Motivo = 'Do outro lado, alguem esta torcendo contra você, cuidado.'},
         [10106924487] = {Motivo = 'Poupando trabalho'},
         [7688223677] = {Motivo = "EB CLONADO."},
         [1903201376] = {Motivo = "Exploit"},
