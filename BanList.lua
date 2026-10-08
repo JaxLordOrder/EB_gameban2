@@ -5,7 +5,7 @@ local Ban = {
         --[3642743195] = {Motivo = '.'}, -- venda de raça
 
         --[5677915950] = {Motivo = 'se alguém diz que pode contra o hardban,você acredita nessa pessoa? não né? então é exatamente assim que eu me sinto.'}, -- comprovante falso
-        [8222170744] = {Motivo = 'flw'}, -- cancelando compra pois "já faliu mesmo"
+        [9615742865] = {Motivo = 'flw'}, -- de graca convidando gente pra Tokyo 
         [8103890668] = {Motivo = '/antiunhardban'}, -- exploit
         [10344686478] = {Motivo = '/antiunhardban'}, -- exploit
         [8671098855] = {Motivo = 'D'}, -- Utilizando nome de terceiros e fazendo parte de EB cópia
